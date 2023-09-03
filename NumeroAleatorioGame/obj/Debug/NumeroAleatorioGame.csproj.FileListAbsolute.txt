@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\bin\Debug\NumeroAleatorioGame.exe.config
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\bin\Debug\NumeroAleatorioGame.exe
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\bin\Debug\NumeroAleatorioGame.pdb
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\obj\Debug\NumeroAleatorioGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\obj\Debug\NumeroAleatorioGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\obj\Debug\NumeroAleatorioGame.exe
+C:\Users\Administrator\source\repos\NumeroAleatorioGame\NumeroAleatorioGame\obj\Debug\NumeroAleatorioGame.pdb
